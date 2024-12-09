@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Cyberszn
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Web development 
-- 📫 How to reach me ...
+## Skin Type detection using Convulational Neural Network
 
-<!---
-Cyberszn/Cyberszn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Detection of skin types is an important/critical step in diagnosing dermatological issues and treatment planning, this influences the choice of treatment and for recommending products, even though self-assessment is not 100% reliable. This research work explores the development of a computer-aided system for skin type detection using Convolutional Neural Network (CNNs). This CNN model will be trained on the skin type dataset (normal, dry, oily) this dataset is collected by dermatologists worldwide, The ResNet-18 and a custom CNN model I named MyCNN models was used to extract and learn complex features from the skin type dataset and train it to enable accurate skin type classifications. Standard metrics was used for model’s performance evaluation also to demonstrate significant improvement over existing methods. MyCNN model performed better overall with 40% accuracy against ResNet-18 33% accuracy. The results obtained shows that dermatologist-aided CNNs offer a better promising solution for automated skin type detection, it has potential applications in epidemiological studies, The process of integration of Artificial Intelligence and expert insights presents a step forward in dermatological diagnostics, enhancing both precision and the efficiency of skin types and their classification.
